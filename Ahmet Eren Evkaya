@@ -1,0 +1,20 @@
+Proje Yazarı: Adınız Soyadınız
+
+# Projenin Adı: Kod-Asistan v0.1
+
+## Projenin Amacı
+Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak bir dijital asistan tasarlamak.
+
+## Projenin Hedefleri
+* v1.0 Akıllı Menü
+* v2.0 Veri Saklama
+
+## Kapsam
+EĞER kullanıcı_girdisi == "Selam" İSE
+    YAZDIR("Merhaba! Size nasıl yardımcı olabilirim?")
+DEĞİLSE
+    YAZDIR("Üzgünüm, bu komutu anlayamadım.")
+
+## Kaynakça
+* Algoritmik Düşünme ve Tasarım Ders Kitabı
+* 
